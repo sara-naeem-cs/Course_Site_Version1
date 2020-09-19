@@ -4,6 +4,6 @@ It contains the same information as the original site but in a more visually stu
 
 This repository contains all of the html and css files needed to access and use the website. 
 
-Go to https://sara-naeem-cs.github.io/Course_Site_Version1/ to interact with the website. 
+You an checkout the website at https://sara-naeem-cs.github.io/Course_Site_Version1/   . 
 
 Hope you like it! :)
